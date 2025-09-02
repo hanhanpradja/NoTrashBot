@@ -1,12 +1,19 @@
-# NoTrashBot
-Ini adalah bot discord termutakhir untuk membantu anda memilah sampah. Bot ini terintegrasi model AI terbaik yang mengetahui lebih dari 100+ jenis sampah. Mari gunakan bot ini di projek anda. Silahkan pull requests!
+# NoTrashBOT
+Bot discord terkini dengan teknologi computer vision yang dapat memilah sampah secara real-time begitu gambar di upload
 
 ## Fitur
-* Klasifikasi gambar gambar
-* Konsultasi dengan chatbot
-* alert jika terlalu sering mengirim gambar sampah plastik
+* Klasifikasi jenis sampah
+* Tips n trik olah sampah anorganik
 
 ## Teknologi
-* Tensorflow & Teachable Machine
-* Discord.py
-* External API
+* discord.py
+* Tensorflow
+* Requests
+* Pillow
+* Numpy
+* Teachable Machine
+
+## How to
+Silahkah install library berikut:
+
+`pip install tensorflow==2.12.1`
